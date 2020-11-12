@@ -14,12 +14,14 @@ The colors cycle every 10 seconds.
 1. Move the file to `~/.local/bin/`
 2. `chmod +x ~/.local/bin/roserazer`
 3. `roserazer & disown`
-4. (Optional) add it as a login task.
+4. (Optional) set it to repeat forever and add it as a login task.
 
 ```sh
 cat rosepine.txt >> ~/.bashrc
 ```
 
-### Demonstration
+### Photo
 
-Soon
+![photo](https://cdn.discordapp.com/attachments/767172954395639811/776248537989513256/IMG_20201111_165423.jpg)
+
+If someone wants to make a GIF that would be awesome.
