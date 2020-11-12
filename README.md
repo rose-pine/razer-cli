@@ -18,6 +18,6 @@ The colors cycle every 10 seconds.
 
 ### Photo
 
-![photo](https://cdn.discordapp.com/attachments/767172954395639811/776249001619488768/IMG_20201111_165423.jpg)
+![photo](https://cdn.discordapp.com/attachments/767172954395639811/776249532908044299/ezgif-6-1d434636d4b6.png)
 
 If someone wants to make a GIF that would be awesome.
