@@ -11,7 +11,7 @@ All natural pine, faux fur and a bit of soho vibes for the classy minimalist.
 0. Make sure [razer-cli](https://github.com/lolei/razer-cli) is fully installed.
 1. Move the file to `~/.local/bin/`
 2. `chmod +x ~/.local/bin/roserazer`
-3. `roserazer`
+3. `roserazer & disown`
 4. (Optional) add it as a login task.
 
 ```sh
