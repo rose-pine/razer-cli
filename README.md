@@ -22,6 +22,6 @@ cat rosepine.txt >> ~/.bashrc
 
 ### Photo
 
-![photo](https://cdn.discordapp.com/attachments/767172954395639811/776249001619488768/IMG_20201111_165423.jpg
+![photo](https://cdn.discordapp.com/attachments/767172954395639811/776249001619488768/IMG_20201111_165423.jpg)
 
 If someone wants to make a GIF that would be awesome.
