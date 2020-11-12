@@ -1,0 +1,8 @@
+#!/bin/bash
+#yes, it's really this easy.
+
+for var in ea6f91 9bced7 f1ca93 34738e c3a5e6 eabbb9
+do
+	razer-cli -c ${var}
+	sleep 10
+done
