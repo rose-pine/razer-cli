@@ -18,7 +18,7 @@ The colors cycle every 10 seconds.
 3. `roserazer & disown`
 4. Optionally set to repeat forever and add as login task
 
-## Screenshots
+## Photos
 
 ![Keyboard and mouse softly glowing](https://cdn.discordapp.com/attachments/767172954395639811/776249532908044299/ezgif-6-1d434636d4b6.png)
 
