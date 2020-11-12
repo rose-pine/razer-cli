@@ -16,10 +16,6 @@ The colors cycle every 10 seconds.
 3. `roserazer & disown`
 4. (Optional) set it to repeat forever and add it as a login task.
 
-```sh
-cat rosepine.txt >> ~/.bashrc
-```
-
 ### Photo
 
 ![photo](https://cdn.discordapp.com/attachments/767172954395639811/776249001619488768/IMG_20201111_165423.jpg)
